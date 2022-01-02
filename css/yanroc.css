@@ -181,7 +181,7 @@ input::-webkit-input-placeholder{
 .search-engine-list li span{
   width: 25px;
   height: 25px;
-  border-radius: 15px;
+  border-radius: 0px;
   float: left;
   margin-right: 5px;
   margin-top: 2.5px;
